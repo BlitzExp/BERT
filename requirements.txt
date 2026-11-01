@@ -1,0 +1,14 @@
+bertopic==0.17.3
+sentence-transformers==5.1.2
+torch==2.15.0
+transformers==4.57.6
+scikit-learn==1.6.1
+numpy==2.2.6
+scipy==1.14.1
+pandas==2.2.3
+umap-learn==0.5.9.post2
+hdbscan==0.8.40
+numba==0.61.2
+llvmlite==0.44.0
+matplotlib==3.10.7
+ipykernel==7.1.0
